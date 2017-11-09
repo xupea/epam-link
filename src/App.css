@@ -5960,7 +5960,8 @@ a.text-dark:focus, a.text-dark:hover {
   margin-left: 0; }
 
 .main {
-  margin-left: 205px; }
+  margin-left: 205px;
+  width: 100%; }
 
 .main,
 .sidebar {
